@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @devilsen(aka codesam)
-- 👀 I’m interested in audio and video editor in Android
-- 🌱 I’m currently learning mediaCodec/OpenGL 
+- 👋 Hi, I’m codesam
+- ✨ To be a full stack developer
+- 👨🏻‍💻 I’m currently buiding my meal tracking app [恰恰好](https://apps.apple.com/cn/app/%E6%81%B0%E6%81%B0%E5%A5%BD/id6736365854)
 - 📫 How to reach me. Mail for dongsen001@gmail.com
 
 <!---
